@@ -1,0 +1,37 @@
+:root {
+    --color01: #89D99D;
+    --color02: #3B8C6E;
+    --color03: #1E5959;
+    --color04: #0B2B40;
+    --color05: #164773;
+
+    --font-default: Verdana, serif;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-default);
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(180deg, var(--color01), var(--color02));
+}
+
+button {
+  font-family: var(--font-default);
+  font-size: 1.15em;
+  border: var(--color04) solid 4px;
+  border-radius: 15px;
+  padding: 12px;
+  color: white;
+  background: var(--color03);
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: .4s;
+}
+
+button:hover {
+  background-color: var(--color05);
+}
