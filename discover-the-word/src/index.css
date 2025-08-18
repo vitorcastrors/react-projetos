@@ -37,7 +37,7 @@ button:hover {
 }
 
 p {
-    margin-bottom: 2em;
+    margin-bottom: 1.25em;
     color: var(--color05);
     font-size: 1.1em;
     font-weight: 700;
