@@ -1,0 +1,44 @@
+.points span {
+    color: var(--color03);
+}
+
+.tip span {
+    color: var(--color03);
+}
+
+.wordContainer {
+    display: flex;
+    margin: 1.5em;
+    padding: 30px;
+    border: 10px solid var(--color04);
+}
+
+.letter, .blankSquare {
+    font-size: 60px;
+    line-height: 1.5;
+    border: 5px solid black;
+    height: 90px;
+    width: 90px;
+    text-transform: uppercase;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+}
+
+.letterContainer p {
+    margin-bottom: 1.2em;
+}
+
+.letterContainer form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.letterContainer input {
+    height: 50px;
+    width: 50px;
+    font-size: 2em;
+    text-align: center;
+    margin-right: 1em;
+}

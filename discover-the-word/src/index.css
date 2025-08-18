@@ -35,3 +35,20 @@ button {
 button:hover {
   background-color: var(--color05);
 }
+
+p {
+    margin-bottom: 2em;
+    color: var(--color05);
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+h1 {
+  font-size: 3em;
+  color: var(--color04);
+}
+
+h2 {
+  font-size: 2em;
+  color: var(--color04);
+}
