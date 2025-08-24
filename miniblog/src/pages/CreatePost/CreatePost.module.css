@@ -1,0 +1,8 @@
+.create_post h2 {
+    font-size: 2.2em;
+}
+
+.create_post p {
+    color: var(--color2);
+    margin-bottom: 2em;
+}
