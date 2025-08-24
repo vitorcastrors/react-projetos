@@ -28,6 +28,7 @@ textarea:focus {
 
 a,
 nav button {
+  background-color: var(--color02);
   text-decoration: none;
   border: none;
   color: white;
