@@ -9,6 +9,10 @@ Cada projeto tem como objetivo praticar conceitos fundamentais e avançados da b
   Jogo para adivinhar a palavra definida pelo sistema.  
   *Conceitos usados:* componentes funcionais, estados (`useState`) e renderização condicional.
 
+- 📝 **[Miniblog](./miniblog/)**  
+  Aplicação de blog simples onde é possível criar e visualizar posts.
+  *Conceitos usados:* hooks (`useState`, `useEffect`), integração com **Firebase (Firestore)**, roteamento com **React Router** e CSS modularizado.
+
 ## 🛠️ Tecnologias utilizadas
 - **React.js (18+)**
 - **JavaScript (ES6+)**
