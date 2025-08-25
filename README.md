@@ -11,7 +11,7 @@ Cada projeto tem como objetivo praticar conceitos fundamentais e avançados da b
 
 - 📝 **[Miniblog](./miniblog/)**  
   Aplicação de blog simples onde é possível criar e visualizar posts.
-  *Conceitos usados:* hooks (`useState`, `useEffect`), integração com **Firebase (Firestore)**, roteamento com **React Router** e CSS modularizado.
+  *Conceitos usados:* hooks (`useState`, `useEffect`, `useReducer`, `useMemo`), integração com **Firebase (Firestore)**, roteamento com **React Router** e CSS modularizado.
 
 ## 🛠️ Tecnologias utilizadas
 - **React.js (18+)**
