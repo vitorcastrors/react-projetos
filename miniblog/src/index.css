@@ -109,6 +109,7 @@ textarea::placeholder {
 }
 
 .btn.btn-danger:hover {
+  color: white;
   background-color: #dc3545;
 }
 
@@ -122,4 +123,16 @@ button[disabled] {
   border: 1px solid #f5c6cb;
   padding: 5px;
   border-radius: 5px;
+}
+
+.noposts {
+  text-align: center;
+}
+
+.noposts p {
+  margin-bottom: 1.5em;
+}
+
+.noposts a {
+  padding: 10px 25px;
 }
